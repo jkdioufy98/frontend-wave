@@ -10,7 +10,8 @@ const Nav = () => {
         {
             icon: 'fa-solid fa-cart-shopping',
             title: 'PAIEMENTS'
-        },        {
+        },
+        {
             icon: 'fa-solid fa-mobile-button',
             title: 'CREDIT'
         }
